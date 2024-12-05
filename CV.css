@@ -90,10 +90,18 @@ hr{
 
 .table_header{
     font-family: "Roboto Slab";
+    padding-bottom: 0.5rem;
 }
 
 .item{
     font-family: "PT Serif";
+
+}
+
+ul{
+    padding-left: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 
