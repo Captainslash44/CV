@@ -28,6 +28,10 @@ hr{
 
 #my_description{
     font-family: "PT Serif";
+    padding: 0 30rem;
+    position: relative;
+    text-align: center;
+
 }
 
 #experience{
@@ -51,6 +55,11 @@ hr{
 
 #education{
     margin-bottom: 4rem;
+}
+
+#education1{
+    padding: 0;
+    margin: 2rem 0;
 }
 
 #skills{
